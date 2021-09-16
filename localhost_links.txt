@@ -1,0 +1,7 @@
+
+:::::: check user name and password is valid::::::
+http://localhost/backend_php/api/User/check_isValid.php?name=tharindu&password=123
+
+
+::::::Get All Users::::::::::::::::
+http://localhost/backend_php/api/User/read.php
